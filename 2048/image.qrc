@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>image/0.png</file>
+        <file>image/2.png</file>
+        <file>image/4.png</file>
+        <file>image/8.png</file>
+        <file>image/16.png</file>
+        <file>image/32.png</file>
+        <file>image/64.png</file>
+        <file>image/128.png</file>
+        <file>image/256.png</file>
+        <file>image/512.png</file>
+        <file>image/1024.png</file>
+        <file>image/2048.png</file>
+        <file>image/57526556_p0.png</file>
+        <file>image/again.png</file>
+        <file>image/close.png</file>
+        <file>image/rank.png</file>
+        <file>image/return.png</file>
+        <file>image/start.png</file>
+    </qresource>
+</RCC>
